@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\s014257o\\source\\repos\\CSharpishDave\\",
+  "WorkspaceRootPath": "D:\\Programming\\UniversityWork\\Semester_2\\davedavedave\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A90DDD81-3FD2-4C4A-A2A4-2F72AA3DD822}|CSharpishDave\\CSharpishDave.csproj|c:\\users\\s014257o\\source\\repos\\csharpishdave\\csharpishdave\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A90DDD81-3FD2-4C4A-A2A4-2F72AA3DD822}|CSharpishDave\\CSharpishDave.csproj|d:\\programming\\universitywork\\semester_2\\davedavedave\\csharpishdave\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A90DDD81-3FD2-4C4A-A2A4-2F72AA3DD822}|CSharpishDave\\CSharpishDave.csproj|solutionrelative:csharpishdave\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\s014257o\\source\\repos\\CSharpishDave\\CSharpishDave\\Program.cs",
+              "DocumentMoniker": "D:\\Programming\\UniversityWork\\Semester_2\\davedavedave\\CSharpishDave\\Program.cs",
               "RelativeDocumentMoniker": "CSharpishDave\\Program.cs",
-              "ToolTip": "C:\\Users\\s014257o\\source\\repos\\CSharpishDave\\CSharpishDave\\Program.cs",
+              "ToolTip": "D:\\Programming\\UniversityWork\\Semester_2\\davedavedave\\CSharpishDave\\Program.cs",
               "RelativeToolTip": "CSharpishDave\\Program.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAIAwwDkAAAAZAAAA",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAIUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T11:17:04.058Z",
               "EditorCaption": ""

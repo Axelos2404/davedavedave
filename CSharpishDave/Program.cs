@@ -9,6 +9,50 @@ int year = Convert.ToInt32(Console.ReadLine());
 int age = 2024 - year;
 Console.WriteLine("Hello, " + Name + "!");
 Console.WriteLine("And you are " + age + ", years old!");
+if (age < 18)
+{
+    Console.WriteLine("You can't go to University yet.");
+}
+else
+{
+    Console.WriteLine("You can go to University.");
+}
+if (year >= 2013 && age <= 2024)
+{
+    Console.WriteLine("You are a part of Generation Alpha.");
+}
+else if (year >= 1997 && year <= 2012)
+{
+    Console.WriteLine("You are a part of Generation Z / Zoomers.");
+}
+else if (year >= 1981 && year >= 1996)
+{
+    Console.WriteLine("You are a part of Generation Y / Millenials.");
+}
+else if (year >= 1965 && year <= 1980)
+{
+    Console.WriteLine("You are a part of Generation X.");
+}
+else if (year >= 1946 && year <= 1964)
+{
+    Console.WriteLine("You are a part of Baby Boomers.");
+}
+else if (year >=  1928 && year <= 1945)
+{
+    Console.WriteLine("You are a part of Silent Generation.");
+}
+else if (year >= 1901 && year <= 1927)
+{
+    Console.WriteLine("You are a part of Greatest / G.I. Generation.");
+}
+else if (year >= 1883 && year <= 1900)
+{
+    Console.WriteLine("You are a part of Lost Generation.");
+}
+else
+{
+    Console.WriteLine("You are a part of the Unknown Generation.");
+}
 */
 // ------------------------------------------- //
 
@@ -50,6 +94,7 @@ Console.WriteLine("Your temperature in Kelvin: {0} {1}", Kelvin, Celsius);
 // ------------------------------------------- //
 
 // Task 4 ------------------------------------ //
+/*
 Console.Write("Enter the 1st number: ");
 double x = Convert.ToDouble(Console.ReadLine());
 Console.Write("Enter the 2nd number: ");
@@ -63,6 +108,28 @@ subtract = Math.Round(subtract, 2);
 double divide = x / y;
 divide = Math.Round(divide, 2);
 Console.WriteLine($"The sum of x and y: {sum}, The multiplication of x and y: {multiply}, \nThe subtraction of x and y: {subtract}, and The division of x and y: {divide}");
+*/
+// ------------------------------------------- //
+
+// --------------------------------------------------------------------------------- //
+
+// [!] Session 3 ------------------------------------------------------------------- //
+
+// For task 1 & 2 go back to top //
+
+// Task 3 ------------------------------------ //
+/*
+Console.Write("How old are you?: ");
+int age = Convert.ToInt32(Console.ReadLine());
+for (int i = 1; i <= age; i++)
+{
+    Console.WriteLine("Happy Birthday to you!");
+}
+*/
+// ------------------------------------------- //
+
+// Task 4 ------------------------------------ //
+
 // ------------------------------------------- //
 
 // --------------------------------------------------------------------------------- //

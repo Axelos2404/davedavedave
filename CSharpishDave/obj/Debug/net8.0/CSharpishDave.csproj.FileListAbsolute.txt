@@ -1,0 +1,14 @@
+C:\Users\s014257o\source\repos\CSharpishDave\CSharpishDave\bin\Debug\net8.0\CSharpishDave.exe
+C:\Users\s014257o\source\repos\CSharpishDave\CSharpishDave\bin\Debug\net8.0\CSharpishDave.deps.json
+C:\Users\s014257o\source\repos\CSharpishDave\CSharpishDave\bin\Debug\net8.0\CSharpishDave.runtimeconfig.json
+C:\Users\s014257o\source\repos\CSharpishDave\CSharpishDave\bin\Debug\net8.0\CSharpishDave.dll
+C:\Users\s014257o\source\repos\CSharpishDave\CSharpishDave\bin\Debug\net8.0\CSharpishDave.pdb
+C:\Users\s014257o\source\repos\CSharpishDave\CSharpishDave\obj\Debug\net8.0\CSharpishDave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s014257o\source\repos\CSharpishDave\CSharpishDave\obj\Debug\net8.0\CSharpishDave.AssemblyInfoInputs.cache
+C:\Users\s014257o\source\repos\CSharpishDave\CSharpishDave\obj\Debug\net8.0\CSharpishDave.AssemblyInfo.cs
+C:\Users\s014257o\source\repos\CSharpishDave\CSharpishDave\obj\Debug\net8.0\CSharpishDave.csproj.CoreCompileInputs.cache
+C:\Users\s014257o\source\repos\CSharpishDave\CSharpishDave\obj\Debug\net8.0\CSharpishDave.dll
+C:\Users\s014257o\source\repos\CSharpishDave\CSharpishDave\obj\Debug\net8.0\refint\CSharpishDave.dll
+C:\Users\s014257o\source\repos\CSharpishDave\CSharpishDave\obj\Debug\net8.0\CSharpishDave.pdb
+C:\Users\s014257o\source\repos\CSharpishDave\CSharpishDave\obj\Debug\net8.0\CSharpishDave.genruntimeconfig.cache
+C:\Users\s014257o\source\repos\CSharpishDave\CSharpishDave\obj\Debug\net8.0\ref\CSharpishDave.dll
